@@ -5,7 +5,7 @@
 
 ## About me!
 
-* <a href="https://www.credly.com/badges/cd19ab96-fff6-47f7-bec4-ec5eee10b183">Microsoft MCT</a>
+* <a href="https://www.credly.com/badges/80274d7e-8763-454e-b5a0-a97b6dbc7a00">Microsoft MCT</a>
 
 <img src="https://github-readme-stats.vercel.app/api/?username=kameshpudi&show_icons=true&count_private=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
 
